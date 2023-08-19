@@ -66,7 +66,8 @@ namespace Exp1
 
 ## Output:
 
-![](./o1.png)
+![image](https://github.com/Paul-Andrew-15/Eligibility-for-Admission/assets/94279791/63a5e982-4ece-4488-85c0-55554a881625)
+
 ![](./o2.png)
 
 ## Result:
