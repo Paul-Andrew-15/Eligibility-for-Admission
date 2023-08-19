@@ -68,7 +68,8 @@ namespace Exp1
 
 ![image](https://github.com/Paul-Andrew-15/Eligibility-for-Admission/assets/94279791/63a5e982-4ece-4488-85c0-55554a881625)
 
-![](./o2.png)
+![image](https://github.com/Paul-Andrew-15/Eligibility-for-Admission/assets/94279791/94992195-2494-458e-be35-57efc5dd1917)
+
 
 ## Result:
 Thus, a C# program to check the eligibility of a student on engineering admission has been executed successfully.
